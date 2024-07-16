@@ -1,0 +1,6 @@
+info_for_php)shell.txt
+----------------------
+
+# for start work you need to start nc:
+
+nc -nlvp 9898
